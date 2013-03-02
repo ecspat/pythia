@@ -1,0 +1,12 @@
+{
+    "name": "pythia",
+    "version": "0.1.0",
+    "author": "Max Schaefer <schaefer@ntu.edu.sg>",
+    "description": "Smart completion for JavaScript",
+    "dependencies" : {
+        "amdefine": "*",
+	"ecspat-util": "https://github.com/ecspat/util/tarball/master",
+	"ecsptr": "https://github.com/ecspat/ecsptr/tarball/master"
+    },
+    "license": "Eclipse"
+}
